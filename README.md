@@ -1,1 +1,1 @@
-First project on react using javascript.
+First project on reactJs using javascript.
